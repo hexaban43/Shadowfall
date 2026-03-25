@@ -1,9 +1,9 @@
 ﻿{
-    "version":  "1.1",
-    "packageUrl":  "https://github.com/hexaban43/Shadowfall/releases/download/v1.1/Shadowfall-win64-1.1.zip",
-    "sha256":  "B581CDFB3803994B667D90E93BC0DAB2DCF87EFBC1B6331112ACC97E0A35E6E9",
+    "version":  "1.2",
+    "packageUrl":  "https://github.com/hexaban43/Shadowfall/releases/download/v1.2/Shadowfall-win64-1.2.zip",
+    "sha256":  "E97250AB3400D8F70F7F0F47F40DDED49AA181742B785DC8ECF727CDBFC09851",
     "entryExecutable":  "Shadowfall.exe",
-    "packageSize":  321388770,
-    "publishedAtUtc":  "2026-03-24T23:59:52.6824612Z",
+    "packageSize":  321411026,
+    "publishedAtUtc":  "2026-03-25T01:04:50.8741894Z",
     "releaseNotes":  ""
 }
