@@ -1,6 +1,6 @@
 {
-  "manifestBaseUrl": "https://hexaban43.github.io/Shadowfall/windows",
   "packageUrlTemplate": "https://github.com/hexaban43/Shadowfall/releases/download/v{version}/{packageName}",
-  "manifestUrl": "https://hexaban43.github.io/Shadowfall/windows/latest.json",
-  "notes": "Enable GitHub Pages for the repo and create a GitHub Release for each version tag before uploading the zip asset."
+  "packageNameTemplate": "Shadowfall-win64-{version}.zip",
+  "manifestUrl": "https://raw.githubusercontent.com/hexaban43/Shadowfall/main/latest.json",
+  "notes": "Commit latest.json to the repo root and upload the matching zip file as a GitHub Release asset tagged v{version}."
 }

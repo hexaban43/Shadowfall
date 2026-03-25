@@ -1,6 +1,0 @@
-{
-  "manifestBaseUrl": "https://hexaban43.github.io/Shadowfall/windows",
-  "packageUrlTemplate": "https://github.com/hexaban43/Shadowfall/releases/download/v{version}/{packageName}",
-  "manifestUrl": "https://hexaban43.github.io/Shadowfall/windows/latest.json",
-  "notes": "Keep latest.json on GitHub Pages and upload the large zip to GitHub Releases. {version} and {packageName} are replaced automatically."
-}
