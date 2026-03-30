@@ -4,6 +4,6 @@
     "sha256":  "0F6E25978B1C67F44C76635F9126FEA7B5CB32D4EBB4E5FCFBF3CCCCE8FAB45B",
     "entryExecutable":  "Shadowfall.exe",
     "packageSize":  321585305,
-    "publishedAtUtc":  "2026-03-30T00:59:34.0586147Z",
-    "releaseNotes":  ""
+    "publishedAtUtc":  "2026-03-30T01:04:21Z",
+    "releaseNotes":  "Shadowfall version 1.3 alpha, complete ui and combat overhaul, small qol changes. "
 }
